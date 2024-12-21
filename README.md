@@ -1,4 +1,5 @@
 # GoodCabs-Insights-Hub-
+
 GoodCabs Insights Hub : Driving Operational Excellence 
 
 Codebasics Resume Challenge #13: Transportation Domain Insights
@@ -53,3 +54,16 @@ Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWU4YjZlZDItNTUzYS00
 GitHub Repository: https://github.com/KartikAhuja2000/GoodCabs-Insights-Hub-
 
 Special thanks to Codebasics, Dhaval Patel, Hemanand Vadivel, and Shashank Singh for conducting this challenge and guiding me through it. A big thank you to NAVEEN S and datatraining.io as well!
+
+![Resume challenge 13 Pic 1 ](https://github.com/user-attachments/assets/211828da-829e-4e1a-a411-a70381c686dd)
+
+![Resume Challenge 13 Pic 2 ](https://github.com/user-attachments/assets/d962d29e-7b65-40d9-b2d0-fad2107afc78)
+
+![Resume Challenege 13 Pic 3 ](https://github.com/user-attachments/assets/a9e960e2-f523-4907-9a43-d4d7574e1f2b)
+
+![Resume Project Challenge 13 Pic 4 ](https://github.com/user-attachments/assets/bc78b89c-8469-4c74-a2a3-b278fa348886)
+
+
+
+
+
